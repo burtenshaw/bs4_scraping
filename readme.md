@@ -1,6 +1,6 @@
 # Scraping the web for meaningful data
 
-Using [Beutifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) we will learn to get text data from the web, and present it in meaningful ways. It's pretty easy to get lumps of text from the web, the challenging and useful part is making sure it makes sense. The web is packed with curated and designed tables, paragraphs, and labels that make understanding stuff really easy. We can leverage those to see the meaningful things about about things!. 
+Using [Beutifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) we will learn to get text data from the web, and present it in meaningful ways. It's pretty easy to get lumps of text from the web, the challenging and useful part is making sure it makes sense. The web is packed with curated and designed tables, paragraphs, and labels that make understanding stuff really easy. We can leverage those to see the meaningful things about things!
 
 ## Objectives
 
